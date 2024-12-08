@@ -2,6 +2,9 @@
 I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft materials science and coarse-grained molecular dynamics simulation. 
 ### Ongoing Project 
 
+### Templating Nematic Arrangement of DNA Origami
+<img src="https://github.com/user-attachments/assets/30fe9417-dd1a-4976-b0e4-e551a8fb3d3f" alt="image" width="500">
+
 #### Mechanical Properties of Self-Assembled MOFs Monolayers
 
 <img src="https://github.com/user-attachments/assets/a0ce3419-7e80-4cfd-9bc9-a6f186107176" alt="MOF_pull_figure" width="500">
