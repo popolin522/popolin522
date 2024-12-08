@@ -3,7 +3,8 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke working on ML for soft materials s
 ### Ongoing Project 
 
 #### Mechanical Properties of Self-Assembled MOFs Monolayers
-![image](https://github.com/user-attachments/assets/25cf3653-cca9-4d07-a27c-ad92cff389c0)
+
+![MOF_pull_figure](https://github.com/user-attachments/assets/a0ce3419-7e80-4cfd-9bc9-a6f186107176)
 
 #### Organization of Brush-functionalized DNA Origami Nanorods
 <img width="346" alt="image" src="https://github.com/user-attachments/assets/07c9dfd7-c9b0-4699-a72f-8500f02ec5e8">
