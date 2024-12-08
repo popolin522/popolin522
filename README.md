@@ -14,6 +14,8 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke working on ML for soft materials s
 
 ### Deep Inverse Design of Patchy Polygonal Particles for Assembly of Superlattices
 [NeurIPS Materials for AI, 2023](https://openreview.net/forum?id=32XS0zXPqU)
+
+
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/66c4b908-05c1-457e-85e5-7cef2a6d7a49">
 
 
@@ -24,6 +26,8 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke working on ML for soft materials s
 
 ### Interfacial Assembly of Polymer-Grafted MOF
 [ACS Nano, 2022](https://pubs.acs.org/doi/full/10.1021/acsnano.2c05175)
+
+
  <img width="500" alt="image" src="https://github.com/user-attachments/assets/2072420d-66d4-403d-bf6a-85433a9eb954">
  
 <!--
