@@ -19,7 +19,8 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke working on ML for soft materials s
 
 #### Controlling Silicification on DNA Origami with Polynucleotide Brushes
 
-![image](https://github.com/user-attachments/assets/aa9f27cb-f41d-42d2-9eb4-b06e41b63fb4)
+![silicification-ezgif com-resize](https://github.com/user-attachments/assets/1e0542dd-64ba-4c58-835b-e43c2187d809)
+
 
 <!--
 **popolin522/popolin522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
