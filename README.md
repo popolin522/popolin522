@@ -1,8 +1,10 @@
 ## Hi there 👋
 I'm Po-An (Andy) Lin, a PhD candidate at Duke working on ML for soft materials science
-### Ongoing Project
+### Ongoing Project 
 
-#### Grafting Density Control
+#### Mechanical Properties of Self-Assembled MOFs Monolayers
+![image](https://github.com/user-attachments/assets/25cf3653-cca9-4d07-a27c-ad92cff389c0)
+
 #### Organization of Brush-functionalized DNA Origami Nanorods
 <img width="346" alt="image" src="https://github.com/user-attachments/assets/07c9dfd7-c9b0-4699-a72f-8500f02ec5e8">
 
@@ -11,7 +13,7 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke working on ML for soft materials s
 #### Deep Inverse Design of Patchy Polygonal Particles for Assembly of Superlattices
 <img width="419" alt="image" src="https://github.com/user-attachments/assets/66c4b908-05c1-457e-85e5-7cef2a6d7a49">
 
-#### Interfacial Assembly and Mechanical Response of Polymer-Grafted MOF
+#### Interfacial Assembly of Polymer-Grafted MOF
 
  <img width="449" alt="image" src="https://github.com/user-attachments/assets/2072420d-66d4-403d-bf6a-85433a9eb954">
 
