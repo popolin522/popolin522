@@ -16,7 +16,7 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 ### Completed Project
 
 #### Deep Inverse Design of Patchy Polygonal Particles for Assembly of Superlattices
-[NeurIPS Materials for AI, 2023](https://openreview.net/forum?id=32XS0zXPqU)
+[NeurIPS AI for Materials, 2023](https://openreview.net/forum?id=32XS0zXPqU)
 
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/66c4b908-05c1-457e-85e5-7cef2a6d7a49">
