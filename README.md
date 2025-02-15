@@ -5,15 +5,14 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 #### Templating Nematic Arrangement of DNA Origami
 <img src="https://github.com/user-attachments/assets/30fe9417-dd1a-4976-b0e4-e551a8fb3d3f" alt="image" width="500">
 
-#### Mechanical Properties of Self-Assembled MOFs Monolayers
-
-<img src="https://github.com/user-attachments/assets/a0ce3419-7e80-4cfd-9bc9-a6f186107176" alt="MOF_pull_figure" width="500">
-
-
 #### Organization of Brush-functionalized DNA Origami Nanorods
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/07c9dfd7-c9b0-4699-a72f-8500f02ec5e8">
 
 ### Completed Project
+#### Mechanical Properties of Self-Assembled MOFs Monolayers
+
+<img src="https://github.com/user-attachments/assets/a0ce3419-7e80-4cfd-9bc9-a6f186107176" alt="MOF_pull_figure" width="500">
+[JACS paper, 2025](https://pubs.acs.org/doi/full/10.1021/jacs.4c17748)
 
 #### Deep Inverse Design of Patchy Polygonal Particles for Assembly of Superlattices
 [NeurIPS AI for Materials, 2023](https://openreview.net/forum?id=32XS0zXPqU)
