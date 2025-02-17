@@ -10,9 +10,10 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 
 ### Completed Project
 #### Mechanical Properties of Self-Assembled MOFs Monolayers
+[JACS paper, 2025](https://pubs.acs.org/doi/full/10.1021/jacs.4c17748)
 
 <img src="https://github.com/user-attachments/assets/a0ce3419-7e80-4cfd-9bc9-a6f186107176" alt="MOF_pull_figure" width="500">
-[JACS paper, 2025](https://pubs.acs.org/doi/full/10.1021/jacs.4c17748)
+
 
 #### Deep Inverse Design of Patchy Polygonal Particles for Assembly of Superlattices
 [NeurIPS AI for Materials, 2023](https://openreview.net/forum?id=32XS0zXPqU)
