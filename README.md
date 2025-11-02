@@ -9,6 +9,8 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/07c9dfd7-c9b0-4699-a72f-8500f02ec5e8">
 
 ### Completed Project
+### Inverse Design of Granular Hydrogels for Programmable Drug Release and Precision Medicine
+
 #### Mechanical Properties of Self-Assembled MOFs Monolayers
 [JACS paper, 2025](https://pubs.acs.org/doi/full/10.1021/jacs.4c17748)
 
