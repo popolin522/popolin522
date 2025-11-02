@@ -9,9 +9,8 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/07c9dfd7-c9b0-4699-a72f-8500f02ec5e8">
 
 #### Controlling the Dynamics of Polymer-Integrated Protein Crystals
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/73f45b03-c472-4189-921a-8c86a7a60996" alt="Genuine_bridge" width="50%">
-</p>
+<img width="500" alt="Genuine_bridge" src="https://github.com/user-attachments/assets/73f45b03-c472-4189-921a-8c86a7a60996">
+
 
 
 ### Completed Project
