@@ -17,7 +17,7 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 
 
 ### Completed Project
-#### Inverse Design of Granular Hydrogels for Programmable Drug Release and Precision Medicine
+#### Inverse Design of Granular Hydrogels for Programmable Drug Release
 [NeurIPS AI for Materials, 2025](https://openreview.net/pdf?id=LM7qZZprCS)
 
 
