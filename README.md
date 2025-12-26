@@ -20,7 +20,6 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 #### Inverse Design of Granular Hydrogels for Programmable Drug Release
 [NeurIPS AI for Materials, 2025](https://openreview.net/pdf?id=LM7qZZprCS)
 
-[Interactive exploration of structural descriptor embeddings](http://67.159.69.231:5000/)
 
 <img src="https://github.com/user-attachments/assets/71a34e60-f3a0-4b98-9639-28b1a1ba6b18" alt="compressed_gran_fig" width="60%">
 
@@ -33,6 +32,7 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 #### Deep Inverse Design of Patchy Polygonal Particles for Assembly of Superlattices
 [NeurIPS AI for Materials, 2023](https://openreview.net/forum?id=32XS0zXPqU)
 
+[Interactive exploration of structural descriptor embeddings](http://67.159.69.231:5000/)
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/66c4b908-05c1-457e-85e5-7cef2a6d7a49">
 
