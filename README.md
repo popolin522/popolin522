@@ -58,7 +58,6 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 
 
  <img width="500" alt="image" src="https://github.com/user-attachments/assets/2072420d-66d4-403d-bf6a-85433a9eb954">
-![silicification_figure_in_github](https://github.com/user-attachments/assets/b19fa175-91f7-4de1-b3e0-e6c6ac20eacf)
 
  ### fun side project
  #### MuseAI
