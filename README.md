@@ -40,11 +40,17 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 #### Controlling Silicification on DNA Origami with Polynucleotide Brushes
 [JACS paper, 2023](https://pubs.acs.org/doi/full/10.1021/jacs.3c09310)
 
-<img src="https://github.com/user-attachments/assets/1e0542dd-64ba-4c58-835b-e43c2187d809" alt="silicification-ezgif com-resize" width="500">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e0542dd-64ba-4c58-835b-e43c2187d809" width="300" />
+  <img src="https://github.com/user-attachments/assets/ed765f4b-82f4-4b8f-adba-446211d652af" width="700" />
+</p>
+
+
+<!-- <img src="https://github.com/user-attachments/assets/1e0542dd-64ba-4c58-835b-e43c2187d809" alt="silicification-ezgif com-resize" width="500">
 
 <img width="1895" height="565" alt="silicification_figure_in_github" src="https://github.com/user-attachments/assets/ed765f4b-82f4-4b8f-adba-446211d652af" />
 
-
+ -->
 
 
 #### Interfacial Assembly of Polymer-Grafted MOF
