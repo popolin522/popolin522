@@ -15,7 +15,7 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 <img width="300" alt="Figure_6-4_github" src="https://github.com/user-attachments/assets/6f580942-3ba0-4be5-8110-59d1b5185b26">
 
 #### Controlling the Dynamics of Polymer-Integrated Protein Crystals
-<img width="300" alt="table_of_content_ferritin" src="https://github.com/user-attachments/assets/6f28605b-95b1-4ba7-bc2c-4933b8e2c54a">
+<img width="600" alt="table_of_content_ferritin" src="https://github.com/user-attachments/assets/6f28605b-95b1-4ba7-bc2c-4933b8e2c54a">
 
 
 #### Inverse Design of Granular Hydrogels for Programmable Drug Release
