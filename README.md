@@ -8,15 +8,16 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 #### Organization of Brush-functionalized DNA Origami Nanorods
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/07c9dfd7-c9b0-4699-a72f-8500f02ec5e8">
 
+
+### Completed Project
+
 #### Data-Driven Reconstruction of Interfacial free energy & Predictive Design of Self-Assembling Mesoscale Superlattices
 <img width="300" alt="Figure_6-4_github" src="https://github.com/user-attachments/assets/6f580942-3ba0-4be5-8110-59d1b5185b26">
 
 #### Controlling the Dynamics of Polymer-Integrated Protein Crystals
-<img width="300" alt="Genuine_bridge" src="https://github.com/user-attachments/assets/73f45b03-c472-4189-921a-8c86a7a60996">
+<img width="300" alt="table_of_content_ferritin" src="https://github.com/user-attachments/assets/6f28605b-95b1-4ba7-bc2c-4933b8e2c54a">
 
 
-
-### Completed Project
 #### Inverse Design of Granular Hydrogels for Programmable Drug Release
 [NeurIPS AI for Materials, 2025](https://openreview.net/pdf?id=LM7qZZprCS)
 
