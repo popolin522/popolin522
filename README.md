@@ -40,15 +40,16 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 #### Controlling Silicification on DNA Origami with Polynucleotide Brushes
 [JACS paper, 2023](https://pubs.acs.org/doi/full/10.1021/jacs.3c09310)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ed765f4b-82f4-4b8f-adba-446211d652af" width="700" />
-  <img src="https://github.com/user-attachments/assets/1e0542dd-64ba-4c58-835b-e43c2187d809" width="300" />
-</p>
-
-
-<!-- <img src="https://github.com/user-attachments/assets/1e0542dd-64ba-4c58-835b-e43c2187d809" alt="silicification-ezgif com-resize" width="500">
-
-<img width="1895" height="565" alt="silicification_figure_in_github" src="https://github.com/user-attachments/assets/ed765f4b-82f4-4b8f-adba-446211d652af" />
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/ed765f4b-82f4-4b8f-adba-446211d652af" width="600">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/1e0542dd-64ba-4c58-835b-e43c2187d809" width="250">
+    </td>
+  </tr>
+</table>
 
  -->
 
@@ -61,7 +62,7 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 
  ### fun side project
  #### MuseAI
- [AI platform for musician to practice improvisation in jazz.](https://devpost.com/software/museai-osuf6w)
+ [Platform to practice improvisation in jazz.](https://devpost.com/software/museai-osuf6w)
 <!--
 **popolin522/popolin522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
