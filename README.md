@@ -5,8 +5,17 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 #### Templating Nematic Arrangement of DNA Origami
 <img src="https://github.com/user-attachments/assets/30fe9417-dd1a-4976-b0e4-e551a8fb3d3f" alt="image" width="500">
 
-#### Organization of Brush-functionalized DNA Origami Nanorods
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/07c9dfd7-c9b0-4699-a72f-8500f02ec5e8">
+#### Tunable Patterning of DNA Origami on Surfaces using Steric Brushes 
+
+<p align="center">
+  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/77b70b83-8f81-48a7-aca8-95ef7aea04a9">
+  <br>
+  <em>DNA origami rods self-assemble into nematic patterns on surfaces, and their pattern is set pretty early. Isn’t this cool?</em>
+</p>
+
+
+<!-- <img width="500" alt="image" src="https://github.com/user-attachments/assets/07c9dfd7-c9b0-4699-a72f-8500f02ec5e8">
+<img width="2513" height="525" alt="defect_snapshot_github" src="https://github.com/user-attachments/assets/77b70b83-8f81-48a7-aca8-95ef7aea04a9" /> -->
 
 
 ### Completed Project
@@ -52,7 +61,6 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
   </tr>
 </table>
 
- -->
 
 
 #### Interfacial Assembly of Polymer-Grafted MOF
