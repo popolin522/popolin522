@@ -69,10 +69,11 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 
  <img width="500" alt="image" src="https://github.com/user-attachments/assets/2072420d-66d4-403d-bf6a-85433a9eb954">
 
+
+<!--
  ### fun side project
  #### MuseAI
  [Platform to practice improvisation in jazz.](https://devpost.com/software/museai-osuf6w)
-<!--
 **popolin522/popolin522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
