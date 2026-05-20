@@ -5,7 +5,9 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 #### Templating Nematic Arrangement of DNA Origami
 <img src="https://github.com/user-attachments/assets/30fe9417-dd1a-4976-b0e4-e551a8fb3d3f" alt="image" width="500">
 
+### Completed Project
 #### Tunable Patterning of DNA Origami on Surfaces using Steric Brushes 
+Angewandte Chemie, 2026
 
 <p align="center">
   <img width="1000" alt="image" src="https://github.com/user-attachments/assets/77b70b83-8f81-48a7-aca8-95ef7aea04a9">
@@ -17,13 +19,12 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 <!-- <img width="500" alt="image" src="https://github.com/user-attachments/assets/07c9dfd7-c9b0-4699-a72f-8500f02ec5e8">
 <img width="2513" height="525" alt="defect_snapshot_github" src="https://github.com/user-attachments/assets/77b70b83-8f81-48a7-aca8-95ef7aea04a9" /> -->
 
-
-### Completed Project
-
 #### Data-Driven Reconstruction of Interfacial free energy & Predictive Design of Self-Assembling Mesoscale Superlattices
 <img width="300" alt="Figure_6-4_github" src="https://github.com/user-attachments/assets/6f580942-3ba0-4be5-8110-59d1b5185b26">
 
 #### Controlling the Dynamics of Polymer-Integrated Protein Crystals
+[JACS, 2026](https://pubs.acs.org/doi/abs/10.1021/jacs.6c02182)
+
 <img width="600" alt="table_of_content_ferritin" src="https://github.com/user-attachments/assets/6f28605b-95b1-4ba7-bc2c-4933b8e2c54a">
 
 
@@ -34,7 +35,7 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 <img src="https://github.com/user-attachments/assets/71a34e60-f3a0-4b98-9639-28b1a1ba6b18" alt="compressed_gran_fig" width="60%">
 
 #### Mechanical Properties of Self-Assembled MOFs Monolayers
-[JACS paper, 2025](https://pubs.acs.org/doi/full/10.1021/jacs.4c17748)
+[JACS, 2025](https://pubs.acs.org/doi/full/10.1021/jacs.4c17748)
 
 <img src="https://github.com/user-attachments/assets/a0ce3419-7e80-4cfd-9bc9-a6f186107176" alt="MOF_pull_figure" width="500">
 
@@ -48,7 +49,7 @@ I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft 
 
 
 #### Controlling Silicification on DNA Origami with Polynucleotide Brushes
-[JACS paper, 2023](https://pubs.acs.org/doi/full/10.1021/jacs.3c09310)
+[JACS, 2023](https://pubs.acs.org/doi/full/10.1021/jacs.3c09310)
 
 <table align="center">
   <tr>
