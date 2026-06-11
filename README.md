@@ -20,10 +20,14 @@ Angewandte Chemie, 2026
 <img width="2513" height="525" alt="defect_snapshot_github" src="https://github.com/user-attachments/assets/77b70b83-8f81-48a7-aca8-95ef7aea04a9" /> -->
 
 #### Data-Driven Reconstruction of Interfacial free energy & Predictive Design of Self-Assembling Mesoscale Superlattices
+
+[repo](https://github.com/popolin522/Color-grid-with-constraints-like-an-engineer)
+
 <img width="300" alt="Figure_6-4_github" src="https://github.com/user-attachments/assets/6f580942-3ba0-4be5-8110-59d1b5185b26">
 
 #### Controlling the Dynamics of Polymer-Integrated Protein Crystals
-[JACS, 2026](https://pubs.acs.org/doi/abs/10.1021/jacs.6c02182)
+
+[repo](https://github.com/popolin522/MC_lattice_network) | [JACS, 2026](https://pubs.acs.org/doi/abs/10.1021/jacs.6c02182)
 
 <img width="600" alt="table_of_content_ferritin" src="https://github.com/user-attachments/assets/6f28605b-95b1-4ba7-bc2c-4933b8e2c54a">
 
@@ -41,7 +45,7 @@ Angewandte Chemie, 2026
 
 
 #### Deep Inverse Design of Patchy Polygonal Particles for Assembly of Superlattices
-[NeurIPS AI for Materials, 2023](https://openreview.net/forum?id=32XS0zXPqU)
+[repo](https://github.com/popolin522/dNA) | [NeurIPS AI for Materials, 2023](https://openreview.net/forum?id=32XS0zXPqU)
 
 [Interactive exploration of structural descriptor embeddings](http://67.159.69.231:5000/)
 
