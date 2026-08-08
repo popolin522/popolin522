@@ -2,6 +2,9 @@
 I'm Po-An (Andy) Lin, a PhD candidate at Duke University working on ML for soft materials science and coarse-grained molecular dynamics simulation. 
 ### Ongoing Project 
 
+#### Revisiting the Maximum Symmetry Principle with Outer-Double Clusters
+<img width="3424" height="723" alt="finite_sized_horizontal" src="https://github.com/user-attachments/assets/8056656a-cdae-4f62-bcd2-3fe599fbae23" />
+
 #### Templating Nematic Arrangement of DNA Origami
 <img src="https://github.com/user-attachments/assets/30fe9417-dd1a-4976-b0e4-e551a8fb3d3f" alt="image" width="500">
 
@@ -12,7 +15,7 @@ Angewandte Chemie, 2026
 <p align="center">
   <img width="1000" alt="image" src="https://github.com/user-attachments/assets/77b70b83-8f81-48a7-aca8-95ef7aea04a9">
   <br>
-  <em>DNA origami rods self-assemble into nematic patterns on surfaces, and their pattern is set pretty early. Isn’t this cool?</em>
+  <em>DNA origami rods self-assemble into nematic patterns on surfaces, and their pattern is set pretty early.</em>
 </p>
 
 
